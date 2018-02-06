@@ -1,0 +1,11 @@
+{
+    "name": "TemplateForGrunt",
+    "version": "0.0.1",
+    "description": "Template",
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-sass": "latest",
+        "grunt-contrib-watch": "latest"
+    }
+}
